@@ -1,0 +1,20 @@
+{
+  "name": "dticket",
+  "version": "1.7.0",
+  "description": "The official Dark Purple Support bot, coded by Unbreakable.",
+  "main": "index.js",
+  "homepage": "https://discord.js.org/#/docs/main/stable/general/welcome",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node .": "node run index.js"
+  },
+  "author": "Unbreakable",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "leeks.js": "0.0.8",
+    "leekslazylogger": "^1.1.9",
+    "or": "^0.2.0",
+    "yarn": "^1.22.4"
+  }
+}
